@@ -66,4 +66,4 @@ Este projeto é de uso educacional, criado como parte da disciplina **Tecnologia
 **Thiago Rodrigues Leite Barboza 256120**  
 Turma: Engenharia da Computação turma da manhã 2° Semestre  
 Email: tb256120@alunos.unisanta.br ou thiago_leite06@outlook.com  
-GitHub: [https://github.com/seuusuario](https://github.com/ThiagoRodrigues77)
+GitHub: [https://github.com/ThiagoRodrigues77](https://github.com/ThiagoRodrigues77)
