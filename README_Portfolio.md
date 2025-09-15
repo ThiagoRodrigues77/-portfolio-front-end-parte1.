@@ -44,8 +44,8 @@ Link para o protótipo criado no Figma:
 
 ## 🔗 Acesso ao Projeto
 
-- **GitHub Pages:** [Clique aqui para acessar o site](https://github.com/ThiagoRodrigues77/Thiago-Rodrigues)
-- **Repositório GitHub:** [Acesse o código-fonte aqui](https://github.com/seuusuario/nome-do-repositorio)
+- **GitHub Pages:** [Clique aqui para acessar o site](https://seuusuario.github.io/nome-do-repositorio/)
+- **Repositório GitHub:** [Acesse o código-fonte aqui](https://github.com/ThiagoRodrigues77/-portfolio-front-end-parte1.)
 
 ---
 
